@@ -1,0 +1,17 @@
+E:\教师工作量统计系统\project\TWSS\TWSS\bin\Debug\TWSS.exe.config
+E:\教师工作量统计系统\project\TWSS\TWSS\bin\Debug\TWSS.exe
+E:\教师工作量统计系统\project\TWSS\TWSS\bin\Debug\TWSS.pdb
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.csprojAssemblyReference.cache
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.login.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.Properties.Resources.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.csproj.GenerateResource.cache
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.csproj.CoreCompileInputs.cache
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.exe
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.pdb
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.MainForm.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.register.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.FindPassword.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.TS.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.persionalInfo.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.keYan.resources
+E:\教师工作量统计系统\project\TWSS\TWSS\obj\Debug\TWSS.JingSai.resources
