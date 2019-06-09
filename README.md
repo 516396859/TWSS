@@ -1,6 +1,6 @@
 # TWSS
-author:cheney
-update time:2019-6-8
+author:cheney\n
+update time:2019-6-8\n
 project: teacher workload management system 
 Language Tools:C#
 introduce:
