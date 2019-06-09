@@ -1,4 +1,3 @@
-# TWSS
-C＃教师工作量管理系统（教师工作量管理系统）
-该系统为教师工作量统计而设计，使用C＃与SQLSERVER 数据库。
-不足之处，还请多多指出，纠正！
+# TWSSC# teacher workload management system 
+This system is designed for teachers workload statistics, using C# and SQLSERVER database.
+Deficiencies, also please point out, correct!
